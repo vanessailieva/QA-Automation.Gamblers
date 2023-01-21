@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{06B791DF-9291-4F0A-9CC3-10385F7462BD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sum/Program.cs">
+    <Files>
+      <File FileName="Sum/Program.cs" Line="10" Column="1" />
+      <File FileName="Sum/Sum.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QANunit" expanded="True">
+            <Node name="Sum" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sum PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

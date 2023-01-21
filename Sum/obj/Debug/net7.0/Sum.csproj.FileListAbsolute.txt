@@ -1,0 +1,15 @@
+/Users/vanessailieva/Documents/QA/QANunit/Sum/bin/Debug/net7.0/Sum
+/Users/vanessailieva/Documents/QA/QANunit/Sum/bin/Debug/net7.0/Sum.deps.json
+/Users/vanessailieva/Documents/QA/QANunit/Sum/bin/Debug/net7.0/Sum.runtimeconfig.json
+/Users/vanessailieva/Documents/QA/QANunit/Sum/bin/Debug/net7.0/Sum.dll
+/Users/vanessailieva/Documents/QA/QANunit/Sum/bin/Debug/net7.0/Sum.pdb
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.csproj.AssemblyReference.cache
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.AssemblyInfoInputs.cache
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.AssemblyInfo.cs
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.csproj.CoreCompileInputs.cache
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.dll
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/refint/Sum.dll
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.pdb
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/Sum.genruntimeconfig.cache
+/Users/vanessailieva/Documents/QA/QANunit/Sum/obj/Debug/net7.0/ref/Sum.dll
