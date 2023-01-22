@@ -1,7 +1,6 @@
-﻿<Properties StartupConfiguration="{06B791DF-9291-4F0A-9CC3-10385F7462BD}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{081FCE26-2003-4FA3-B35B-7C8E90C70D15}|Default">
+  <MonoDevelop.Ide.ItemProperties.Summator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="Sum/Program.cs">
     <Files>
       <File FileName="Sum/Program.cs" Line="10" Column="1" />
@@ -20,5 +19,4 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Sum PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

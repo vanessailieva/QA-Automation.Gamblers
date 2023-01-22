@@ -1,0 +1,15 @@
+/Users/vanessailieva/Desktop/QANunit/Summator/bin/Debug/net6.0/Summator
+/Users/vanessailieva/Desktop/QANunit/Summator/bin/Debug/net6.0/Summator.deps.json
+/Users/vanessailieva/Desktop/QANunit/Summator/bin/Debug/net6.0/Summator.runtimeconfig.json
+/Users/vanessailieva/Desktop/QANunit/Summator/bin/Debug/net6.0/Summator.dll
+/Users/vanessailieva/Desktop/QANunit/Summator/bin/Debug/net6.0/Summator.pdb
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.csproj.AssemblyReference.cache
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.AssemblyInfoInputs.cache
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.AssemblyInfo.cs
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.csproj.CoreCompileInputs.cache
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.dll
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/refint/Summator.dll
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.pdb
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/Summator.genruntimeconfig.cache
+/Users/vanessailieva/Desktop/QANunit/Summator/obj/Debug/net6.0/ref/Summator.dll

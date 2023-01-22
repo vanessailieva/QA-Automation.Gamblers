@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCSclOAAQ79Rn+nfsF6+WoD7juNwO/sCGUlD5dQk0KHGnAxQOqokR6f4GsZoZlvVwz24r/ShZ0zzFQE2JfciBw==",
+  "success": true,
+  "projectFilePath": "/Users/vanessailieva/Desktop/QANunit/Summator/Summator.csproj",
+  "expectedPackageFiles": [
+    "/Users/vanessailieva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/vanessailieva/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.13/microsoft.netcore.app.host.osx-arm64.6.0.13.nupkg.sha512",
+    "/Users/vanessailieva/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
